@@ -1,0 +1,54 @@
+echo "# All-Yonogames-links" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Aluparata/All-Yonogames-links.git
+git push -u origin main
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Yono Game Links</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #1a73e8;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>All Yono Game Links</h1>
+    <ul>
+        <li><a href="https://yonoslots.app?code=PJB625WGZ9Y&t=1713007939" target="_blank">1. Yono slots</a></li>
+        <li><a href="https://download.yonoapk.com/?code=VIP6Y54GSC2&t=1709018743" target="_blank">2. Yono rummy</a></li>
+        <li><a href="https://download.mbmbet.app/?code=UPHUD7LF4J8&t=1709018783" target="_blank">3. MBM bet</a></li>
+        <li><a href="https://yonogamesapp.com/?code=GK1ZQ8GH1H7&t=1709018858" target="_blank">4. Yono games</a></li>
+        <li><a href="https://www.yonoarcadeapp.com?code=96LPAKKHSF8&t=1715415352" target="_blank">5. Yonoarcade</a></li>
+        <li><a href="https://yono777agent.com?code=F9MF8G13ASZ&t=1715415440" target="_blank">6. Yono777</a></li>
+        <li><a href="https://yonovipreferral.com?code=9U81RHY5L6B&t=1715415489" target="_blank">7. YonoVIP</a></li>
+        <li><a href="https://789jackpotsagent.com?code=S3M3XAHQJ1B&t=1715415527" target="_blank">8. 789Jackpot</a></li>
+        <li><a href="https://www.bingo101official.com?code=6YFUCKPMWF8&t=1715415562" target="_blank">9. Bingo101</a></li>
+        <li><a href="https://www.spincrushagent.com?code=ADEL21A484K&t=1715415593" target="_blank">10. SpinCrush</a></li>
+        <li><a href="https://www.Icicgamesagent.com?code=V4U1LFYJP7B&t=1715415661" target="_blank">11. ICICgames</a></li>
+    </ul>
+</body>
+</html>
